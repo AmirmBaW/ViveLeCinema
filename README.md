@@ -1,3 +1,3 @@
 # pertranslating
 
-ViveLeCinama Palleral Subtitle Translating
+ViveLeCinama Subtitle Translating
