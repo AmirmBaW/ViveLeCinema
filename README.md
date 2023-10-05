@@ -7,4 +7,4 @@ ViveLeCinama Subtitle Translating.
 
 ## Finished
 
-## ٌWatchList
+## WatchList
