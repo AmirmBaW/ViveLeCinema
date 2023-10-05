@@ -1,3 +1,8 @@
-# pertranslating
+# Translating Good Movies to Persian
 
-ViveLeCinama Subtitle Translating
+ViveLeCinama Subtitle Translating.
+
+
+## In Progress
+
+## Finished
