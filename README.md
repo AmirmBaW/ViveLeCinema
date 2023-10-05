@@ -6,3 +6,5 @@ ViveLeCinama Subtitle Translating.
 ## In Progress
 
 ## Finished
+
+## ٌWatchList
