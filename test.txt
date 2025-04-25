@@ -3,17 +3,19 @@ mxbnBot:
 
 🌐 آموزش اتصال و دانلود برنامه های مورد نیاز ⚠️
 
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.194:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.186.41:443?path=%2Fsinavm-sinavm%2F%3Fed%3D2560&security=tls&encryption=none&host=cr7.traneh.dpdns.org&type=ws&sni=cr7.traneh.dpdns.org#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 
-vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=&encryption=none&headerType=none&type=tcp#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
+vless://6eab3293-19fc-4e48-a584-4e5337018084@www.speedtest.net:443?mode=auto&security=tls&encryption=none&host=center.dgclix.ir&type=xhttp#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 
-vless://V2RAXX--@188.245.183.122:15379?path=%2F%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%3Fed%3D2560&security=&encryption=none&type=ws#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
+vless://62d8756d-6f8b-4ddb-96fc-a97e001642b8@194.182.79.108:50513?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
+vless://62d8756d-6f8b-4ddb-96fc-a97e001642b8@194.182.79.108:50513?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
+vless://efc6f773-faa1-4adf-a0a4-6921a6c95406@194.182.79.175:35861?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0dkJzV2VhZFlPamJ5c1NvWXhwWTVV@89.185.84.185:443#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 
 برای آگاهی از وصل یا قطع بودن کانفیگ ها ، ری اکشن بزنید 👍❤️👎
 
@@ -22,35 +24,29 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:
 جهت خرید کانفیگ‌ پرسرعت و بدون قطعی میتونید از ربات تایگو وی‌پی‌ان اقدام کنید 🚀
 🤖 @Tygo_vpn_bot
 
-Reza:
-vless://c7fc1577-1931-473a-9e1d-169d262fa6b3@194.182.79.108:50513?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#all%20%F0%9F%87%A8%F0%9F%87%BF%20%28%40ZEDMODEON%29%20108
+𓄂𝑪𝑶𝑴𝑩𝑨𝑻𓆃:
+vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@cdn-nodes.maviks.eu:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560%3F%2F%40JOKERRVPNJoin_Bade_Channel@JOKERRVPN&security=tls&encryption=none&host=cdn-nodes.maviks.eu&fp=chrome&type=ws&sni=cdn-nodes.maviks.eu#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%201%40JOKERRVPN
 
-همه اپراتور ها ✅
-ایرانسل ✅
-همراه ✅
+vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@nodes.maviks.eu:443?security=reality&encryption=none&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&host=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=f203719d3ff9a5f5#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%202%40JOKERRVPN
+
+vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@ru.maviks.eu:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&host=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=0f917152a871e9c0#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%203%40JOKERRVPN
 
 mxbnBot:
 🔸کانفیگ های جدید مختص تمامی اپراتور ها 🛜
 
 🌐 آموزش اتصال و دانلود برنامه های مورد نیاز ⚠️
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=&encryption=none&type=grpc#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.75.194:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=%2FTelegram%40v2rayngzendegimamad%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.21.23.72:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.128.1:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40mtmvpn&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 
-trojan://psycho@104.21.64.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&type=ws&sni=pSYcho.sUeX12.IR#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
-
-trojan://psycho@104.21.16.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&type=ws&sni=pSYcho.sUeX12.IR#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
-
-trojan://psycho@104.21.16.1:443?path=%2Ftr9Fj4CU0RyaUChYLb%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYCHo.sUEX12.iR#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 
 برای آگاهی از وصل یا قطع بودن کانفیگ ها ، ری اکشن بزنید 👍❤️👎
 
@@ -60,113 +56,117 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40
 🤖 @Tygo_vpn_bot
 
 بابونه🌸:
-vless://ee552463-e982-407b-bc7a-08e2e335099d@188.245.32.66:26745?security=none&encryption=none&host=speedtest.net%3F%2F%40JOKERRVPNJoin_Bade_Channel%40JOKERRVPN&headerType=http&type=tcp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%91%8B%F0%9F%8F%BB
+vless://ab8daaac-7488-419d-938b-d51a720072b0@104.234.196.208:443?mode=gun&security=none&encryption=none&authority=JOKERRVPNJoin_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=443vless#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%98
 
-vless://e20645f3-deb8-479e-abe0-f74c25754085@135.181.155.147:40240?security=none&encryption=none&host=canva.com%3F%2F%40JOKERRVPNJoin_Bade_Channel%40JOKERRVPN&headerType=http&type=tcp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%9A%80
+vless://6eab3293-19fc-4e48-a584-4e5337018084@www.speedtest.net:443?mode=auto&path=%2F%3F%40JOKERRVPNJoin_Bade_Channel%40JOKERRVPN&security=tls&encryption=none&host=center.dgclix.ir&type=xhttp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%BF
 
-vless://ccfa3026-d3ea-4b23-bbce-4df28959eea4@188.34.201.88:16072?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%AD
-
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2087?path=%2Fnet.net%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%92%96
-
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A4%B2%F0%9F%8F%BB
-
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%E2%9C%A8
-
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.21.90.210:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&fp=randomized&type=ws&sni=vlee.amclubs.nyc.mn#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%8C%9D
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.44:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%92%97
-
-vless://87ff28ad-4669-433f-d97d-10950a4f36ca@162.19.212.19:19356?mode=gun&security=none&encryption=none&type=grpc&serviceName=DarkTeam_VPN#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%AB%86
-
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A4%9E%F0%9F%8F%BB
-وصل🫶❤️
-
-Ꭲ.ᖇᗴ᙭:
-vless://e33c929b-acc0-46cd-b968-3b86b990933a@65.108.63.194:1717?security=none&encryption=none&host=%2FJOKERRVPNTELEGRAM-Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN&headerType=none&type=tcp#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%20%40JOKERRVPN
-
-vless://e33c929b-acc0-46cd-b968-3b86b990933a@65.108.63.194:2226?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPNTELEGRAM-Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN&type=grpc&serviceName=2226vless#%F0%9F%9A%80%F0%9F%87%B3%F0%9F%87%B1%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%20%40JOKERRVPN
-
-vless://e33c929b-acc0-46cd-b968-3b86b990933a@65.108.63.194:1717?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPNTELEGRAM-Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN&type=grpc&serviceName=1717vless#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%20%40JOKERRVPN
-
-vless://e33c929b-acc0-46cd-b968-3b86b990933a@65.108.63.194:6893?mode=gun&security=none&encryption=none&authority=%2FJOKERRVPNTELEGRAM-Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN----Channel-@JOKERRVPN&type=grpc&serviceName=6893vless#%F0%9F%9A%80%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%20%40JOKERRVPN
-
-❤️
-
-𓄂𝑪𝑶𝑴𝑩𝑨𝑻𓆃:
-hysteria2://ersj0mYKkA@p2.punchline.ir:42499?security=tls&obfs=salamander&obfs-password=parsa&insecure=1&sni=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%20%40JOKERRVPN
-
-hysteria2://ersj0mYKkA@p2.punchline.ir:34215?security=tls&obfs=salamander&obfs-password=parsa&insecure=1&sni=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%20%40JOKERRVPN
-
-hysteria2://ersj0mYKkA@p2.punchline.ir:37067?security=tls&obfs=salamander&obfs-password=parsa&insecure=1&sni=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%20%40JOKERRVPN
-
-𝐕2𝐑𝐀𝐘𝐍𝐆 𝐒𝐔𝐏𝐏𝐎𝐑𝐓:
-ws
-Location: 🇩🇪
-
-تمامی نت ها💋👍❤️👇✅😍
-
-vless://ef9dcc45-fa18-4ad5-8235-ab7cc93adb18@downloadha.com.iraniantim.ir:80?security=none&type=ws&headerType=&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&host=website.amin-app.ir#%F0%9F%87%A9%F0%9F%87%AA%20%20%40EXPRESSVPN_420%20
-
-
-تمامی نت ها💋👍❤️👇👇😍✅
-
-
-vless://ef9dcc45-fa18-4ad5-8235-ab7cc93adb18@www.speedtest.net:8880?security=none&type=ws&headerType=&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&host=vihypercloud.academigroup.ir.#%F0%9F%87%A9%F0%9F%87%AA%20%20%40EXPRESSVPN_420%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-تمامی نت ها👍💋👇👇👇
-
-vless://ef9dcc45-fa18-4ad5-8235-ab7cc93adb18@website.amin-app.ir:8880?security=none&type=ws&headerType=&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#%F0%9F%87%A9%F0%9F%87%AA%20%20%40EXPRESSVPN_420%20
-
-
-
-تمامی نت ها👇💋💋💋
-
-vless://ef9dcc45-fa18-4ad5-8235-ab7cc93adb18@website.amin-app.ir:2082?security=none&type=httpupgrade&headerType=&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.#Channel%3A%40EXPRESSVPN_420
-
-بابونه🌸:
-vmess://eyJhZGQiOiI0NS4xMi4xNDUuMTExIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjFiNDExNTNlLWM0ZDQtNDMxYi04M2ViLTEwNDcyZjg2OWY5MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDYyOTAiLCJwcyI6IkB2MnJheTMxMyDaqdin2YbYp9mE2YXZiNmGIPCflqQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiIzNy4yMjEuMTI1LjE1OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzNTNlMDc4Ny03MWJjLTQ0MmQtOWM5ZC05MDJmOTAzNTllYjUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMzk0MCIsInBzIjoiQHYycmF5MzEzINqp2KfZhtin2YTZhdmI2YYg8J+YmCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%81
-
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%B2
+vless://6eab3293-19fc-4e48-a584-4e5337018084@www.speedtest.net:443?mode=auto&path=%2F%3F%40JOKERRVPNJoin_Bade_Channel%40JOKERRVPN&security=tls&encryption=none&host=center.dgclix.ir&type=xhttp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%AB%B0%F0%9F%8F%BB
 
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%92%96
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%92%AA%F0%9F%8F%BB
+vmess://eyJhZGQiOiIxMDEuOTkuOTEuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEyN2ZmNDNjLTE4NTEtNGIyZC1iYThjLTZhZmJhMjFlYzA0ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzY3MDAiLCJwcyI6IkB2MnJheTMxMyDaqdin2YbYp9mE2YXZiNmGIPCfkq8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.128.1:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%8C%9D%F0%9F%8D%AD
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.37:2087?path=%2F&security=tls&encryption=none&host=Tp179IrLzQ.mYsErVeR-fAsT22.iNfO&type=ws&sni=Tp179IrLzQ.mYsErVeR-fAsT22.iNfO#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%87%B8%F0%9F%87%AA
 
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443?path=%2F&security=tls&encryption=none&host=cr7.traneh.dpdns.org&fp=chrome&type=ws&sni=cr7.traneh.dpdns.org#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%95
 وصل🫶❤️
 
-gmail:
-vmess://eyJhZGQiOiI0NS4xMi4xNDUuMTExIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjFiNDExNTNlLWM0ZDQtNDMxYi04M2ViLTEwNDcyZjg2OWY5MyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDYyOTAiLCJwcyI6IjMwMNqv24zaryAzOdiq2YjZhdin2YYhINiq2LPYquKAjNix2KfbjNqv2KfZhvCfpKlUaWNrVjJib3RAIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+𓄂𝑪𝑶𝑴𝑩𝑨𝑻𓆃:
+vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@cdn-nodes.maviks.eu:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560%3F%2F%40JOKERRVPNJoin_Bade_Channel@JOKERRVPN&security=tls&encryption=none&host=cdn-nodes.maviks.eu&fp=chrome&type=ws&sni=cdn-nodes.maviks.eu#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%201%40JOKERRVPN
 
-پشتیبانی نتورلد فیلترشکن نیم بها:
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@47.129.153.91:443#%40vpn_v2rang_box
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443/?type=ws&channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random#%40vpn_v2rang_box
-vless://6a2206ac-208b-49f5-95e0-6f3656f9072a@5.75.215.22:44/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-encryption=none&sni=refersion.com&fp=chrome&security=reality&pbk=R43U2y9vbOzBleKGsApbGCufsiRTTeVIKA7LRpGMrVA&sid=f289871208#%40vpn_v2rang_box%0A%40networld_vpn
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087/?type=ws&channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn#%40vpn_v2rang_box
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.55:8880/?type=grpc&channel@.networld_vpn-channel@.networld_vpn-encryption=none#%D9%86%D8%AA%D9%88%D8%B1%D9%84%D8%AF%20%D8%AA%D9%88%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%AC%D8%B3%D8%AA%D8%AC%D9%88%20%DA%A9%D9%86%DB%8C%D8%AF
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.128.1:2096/?type=ws&channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn#%40vpn_v2rang_box%0A%40networld_vpn
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.106:8880/?type=grpc&channel@.networld_vpn-channel@.networld_vpn-encryption=none#%40vpn_v2rang_box
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880/?type=grpc&channel@.networld_vpn-channel@.networld_vpn-encryption=none#%40vpn_v2rang_box%0A%40networld_vpn
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@162.159.1.33:443/?type=ws&channel@.networld_vpn-channel@.networld_vpn-encryption=none&host=cr7.medicaltreatment.ir&security=tls&sni=cr7.medicaltreatment.ir&fp=chrome#%40vpn_v2rang_box
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#%40vpn_v2rang_box
-vless://c7fb7cc9-be80-44dc-bfe3-a7d1429ca8b2@78.47.195.49:20878/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-encryption=none&packetEncoding=xudp#%40vpn_v2rang_box%0A%40networld_vpn
-vless://c7fb7cc9-be80-44dc-bfe3-a7d1429ca8b2@raynitro.holooserver.com:20878/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-encryption=none&packetEncoding=xudp#%40vpn_v2rang_box
-vless://e1b25635-8a12-48c2-9125-176b4571568e@142.93.231.14:32409/?type=ws&channel@.networld_vpn-channel@.networld_vpn-encryption=none&path=%2F&packetEncoding=xudp#%40vpn_v2rang_box
-vless://aedae871-a4e5-489f-946c-98372f15bee2@31.57.241.25:7008/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-encryption=none&flow=xtls-rprx-vision&sni=addons.mozilla.org&fp=chrome&security=reality&pbk=FPH81X-EMwzv4nXgkplSqBAaK81uLuPYqWaYyIWFsnQ&sid=efcbe824#%40vpn_v2rang_box
-vless://c5f665de-e820-44d0-abf4-d23aa2d6f977@93.177.65.104:51688/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=KZ8OnDaJyDfaF9iwzXYuFdo796yoIy6fIh5JmdJ5fAs&sid=12ea6200#%40vpn_v2rang_box
-vless://68665e7f-31c1-49f4-9347-3e18c18e024b@165.232.37.139:1615/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-encryption=none&flow=xtls-rprx-vision&sni=refersion.com&fp=chrome&security=reality&pbk=JGnVRUSzYfMg3pwJKIGO84Lyo1_nalQe21b3EG0JiV8&sid=#%40vpn_v2rang_box%0A%40networld_vpn
-vless://6e23c30c-a248-4dbe-9239-8412f8a8834b@188.245.186.187:12000/?type=grpc&channel@.networld_vpn-channel@.networld_vpn-encryption=none&serviceName=Tok&sni=refersion.com&fp=chrome&security=reality&pbk=WcjPU1iR-woM10JNMkMmv-c1Dl37z6PRsqmciMAitlg&sid=cb45d5eb4577c376#%40vpn_v2rang_box
+vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@nodes.maviks.eu:443?security=reality&encryption=none&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&host=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=f203719d3ff9a5f5#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%202%40JOKERRVPN
+
+vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@ru.maviks.eu:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&host=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=0f917152a871e9c0#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%203%40JOKERRVPN
+
+پشتیبانی:
+ss://YWVzLTEyOC1nY206WUhSUnRzbTNYK3gybWdsNzZ5WTl1aWRzT3duRWUzMC90eWJsUVUvaEd0VT0@193.57.138.81:27082#%40vpn_v2rang_box
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.114.221:443/?type=ws&encryption=none&host=kawaiifreevpn.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=kawaiifreevpn.pages.dev&fp=chrome#%40vpn_v2rang_box
+vless://102e5f34-1913-4dd3-a1f2-f831d891a490@104.16.190.41:443/?type=ws&encryption=none&host=cr7.traneh.dpdns.org&path=%2F&security=tls&sni=cr7.traneh.dpdns.org&fp=chrome#%40vpn_v2rang_box
+vless://033a4982-a8c7-4bfb-9481-5a8a1c62cfd6@104.21.93.95:80/?type=ws&encryption=none&host=azadnet.b0b723a182.workers.dev&path=%2FiDE2j5JJnqTGPjmS%3Fed%3D2560#%40vpn_v2rang_box
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYmI4MThjZDg0YTBkMGU1@103.215.218.54:18096#%40vpn_v2rang_box
+vmess://eyJhZGQiOiIxNzIuNjcuMTU2LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ2x3ZWlkZi5zYnMiLCJpZCI6Ijc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLZhtiq2YjYsdmE2K8g2KrZiCDYqtmE2q/Ysdin2YUg2KzYs9iq2KzZiCDaqdmG24zYr1xuQG5ldHdvcmxkX3ZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://5a4e040a-8de6-4222-bd6f-9f535b8772fd@172.67.207.181:80/?type=ws&encryption=none&host=calm-violet-0e47.pomofoc222.workers.dev&path=%2FlrJO6NEVRGHecfbo%3Fed%3D2560#%40vpn_v2rang_box
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.37:8880/?type=grpc&encryption=none#%40vpn_v2rang_box
+vless://f4f67bdc-227c-4302-a478-28327583b79c@172.67.224.246:443/?type=ws&encryption=none&host=2574.papala.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=2574.papala.filegear-sg.me&fp=randomized#%40vpn_v2rang_box
+vless://5130522b-1ca5-4435-bf18-ac5b5b3bde56@cloudgetservice.mcloudservice.site:443/?type=ws&encryption=none&host=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM&path=%2Flinkws%3Fed%3D2560&security=tls&sni=maxnETvIp-UsA-vP1.mAxNeTcLOudseRvICE.COM#%40vpn_v2rang_box
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#%40vpn_v2rang_box
+vless://282533b1-cbf1-40a6-b399-a1116163fcc5@104.26.13.228:2052/?type=ws&encryption=none&host=throbbing-haze-ac69.guoronghuang180.workers.dev&path=%2F%3Fed%3D2560#%40vpn_v2rang_box
+vmess://eyJhZGQiOiIxNzIuNjcuMTcwLjEwMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ2x3ZWlkZi5zYnMiLCJpZCI6Ijc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLZhtiq2YjYsdmE2K8g2KrZiCDYqtmE2q/Ysdin2YUg2KzYs9iq2KzZiCDaqdmG24zYr1xuQG5ldHdvcmxkX3ZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.27.94:443/?type=ws&encryption=none&host=5-55sfjslf.ifenxiang.cfd&path=%2F%3Fed%3D2560&security=tls&sni=5-55sfjslf.ifenxiang.cfd&fp=random#%40vpn_v2rang_box
+vmess://eyJhZGQiOiI5MS4xOTQuMTEuMTc4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjliMjMzNWFmLWYyNGMtNDgxMC05YzM0LTk1NTY4ZWJkNTc5ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjg5ODQiLCJwcyI6ItmG2KrZiNix2YTYryDYqtmIINiq2YTar9ix2KfZhSDYrNiz2KrYrNmIINqp2YbbjNivXG5AbmV0d29ybGRfdnBuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@104.17.147.22:2087/?type=ws&encryption=none&host=Tp008CsUrZ.rAmRiDdEr.CoM&path=%2F&security=tls&sni=Tp008CsUrZ.rAmRiDdEr.CoM#%40vpn_v2rang_box
+vless://15298f41-e80b-463a-b85b-0c903258a1c8@199.34.228.185:443/?type=ws&encryption=none&host=d5.medicaltreatment.ir&path=sinavm-sinavm%2F%3Fed&security=tls&sni=d5.medicaltreatment.ir#%40vpn_v2rang_box
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoU1poUEFzMUZCR09SSEtNRjJHbFBw@206.189.93.2:1489#%40vpn_v2rang_box
 
 mxbnBot:
 🔸کانفیگ های جدید مختص تمامی اپراتور ها 🛜
 
 🌐 آموزش اتصال و دانلود برنامه های مورد نیاز ⚠️
 
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.233:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%D8%A7%DB%8C%D9%86%D8%AC%D8%A7
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.20.34:2095?path=%2F&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
 
-vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.5.233:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#%40Gp_Config%20%F0%9F%92%9C%20%D9%88%D8%B5%D9%84%20%D8%B4%D8%AF%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@167.235.238.146:8880?mode=gun&security=&encryption=none&type=grpc#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
+
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40V2ray_Alpha&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
+
+vless://56092b40-121b-4c63-9074-7c914703e928@23.88.44.129:13438?path=%2F%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%2C%40V2RAXX-telegram%3Fed%3D2560&security=&encryption=none&type=ws#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
+
+vmess://eydhZGQnOiAnMTg2LjE5MC4yMTUuMTkzJywgJ2FpZCc6ICcwJywgJ2FscG4nOiAnJywgJ2ZwJzogJycsICdob3N0JzogJycsICdpZCc6ICcwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDInLCAnbmV0JzogJ3RjcCcsICdwYXRoJzogJycsICdwb3J0JzogJzIyMzI0JywgJ3BzJzogJ0BHcF9Db25maWcg8J+kjSDYudi22Ygg2LTZiCDaqdin2YbYp9mE2YXZiNmGJywgJ3NjeSc6ICdhdXRvJywgJ3NuaSc6ICcnLCAndGxzJzogJycsICd0eXBlJzogJ25vbmUnLCAndic6ICcyJ30=
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
+
+برای آگاهی از وصل یا قطع بودن کانفیگ ها ، ری اکشن بزنید 👍❤️👎
+
+@Gp_Config 🔸 گپ کانفیگ
+
+جهت خرید کانفیگ‌ پرسرعت و بدون قطعی میتونید از ربات تایگو وی‌پی‌ان اقدام کنید 🚀
+🤖 @Tygo_vpn_bot
+
+بابونه🌸:
+vless://ab8daaac-7488-419d-938b-d51a720072b0@104.234.196.208:443?mode=gun&security=none&encryption=none&authority=JOKERRVPNJoin_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=443vless#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%98
+
+vless://6eab3293-19fc-4e48-a584-4e5337018084@www.speedtest.net:443?mode=auto&path=%2F%3F%40JOKERRVPNJoin_Bade_Channel%40JOKERRVPN&security=tls&encryption=none&host=center.dgclix.ir&type=xhttp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%BF
+
+vless://6eab3293-19fc-4e48-a584-4e5337018084@www.speedtest.net:443?mode=auto&path=%2F%3F%40JOKERRVPNJoin_Bade_Channel%40JOKERRVPN&security=tls&encryption=none&host=center.dgclix.ir&type=xhttp#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%AB%B0%F0%9F%8F%BB
+
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%92%96
+
+vmess://eyJhZGQiOiIxMDEuOTkuOTEuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEyN2ZmNDNjLTE4NTEtNGIyZC1iYThjLTZhZmJhMjFlYzA0ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzY3MDAiLCJwcyI6IkB2MnJheTMxMyDaqdin2YbYp9mE2YXZiNmGIPCfkq8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@185.146.173.37:2087?path=%2F&security=tls&encryption=none&host=Tp179IrLzQ.mYsErVeR-fAsT22.iNfO&type=ws&sni=Tp179IrLzQ.mYsErVeR-fAsT22.iNfO#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%87%B8%F0%9F%87%AA
+
+𓄂𝑪𝑶𝑴𝑩𝑨𝑻𓆃:
+vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@cdn-nodes.maviks.eu:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2%3Fed%3D2560%3F%2F%40JOKERRVPNJoin_Bade_Channel@JOKERRVPN&security=tls&encryption=none&host=cdn-nodes.maviks.eu&fp=chrome&type=ws&sni=cdn-nodes.maviks.eu#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%201%40JOKERRVPN
+
+vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@nodes.maviks.eu:443?security=reality&encryption=none&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&host=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=f203719d3ff9a5f5#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%202%40JOKERRVPN
+
+vless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@ru.maviks.eu:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&host=JOKERRVPNJoin_Bade_Channel@JOKERRVPN&headerType=none&fp=chrome&spx=%2FJOKERRVPNJoin_Bade_Channel@JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=maviks.eu&sid=0f917152a871e9c0#%F0%9F%9A%80%F0%9F%87%A9%F0%9F%87%AA%5BAll%5D%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%20%DA%86%D9%86%D9%84%203%40JOKERRVPN
+
+mxbnBot:
+🔸کانفیگ های جدید مختص تمامی اپراتور ها 🛜
+
+🌐 آموزش اتصال و دانلود برنامه های مورد نیاز ⚠️
+
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.128.1:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vlee.amclubs.nyc.mn&type=ws&sni=vlee.amclubs.nyc.mn#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
+
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.18.41.190:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
+
+vless://8395f80e-052f-4377-8132-566f1d8059f8@80.211.203.132:12901?path=%2F&security=&encryption=none&type=httpupgrade#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
+
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.153.2:443?path=%2FTelegram%40v2rayngzendegimamad%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
+
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=Telegram-%40V2ray_Alpha&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
+
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.15.132:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=random&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40Gp_Config%20%F0%9F%A4%8D%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86
+
+برای آگاهی از وصل یا قطع بودن کانفیگ ها ، ری اکشن بزنید 👍❤️👎
+
+@Gp_Config 🔸 گپ کانفیگ
+
+جهت خرید کانفیگ‌ پرسرعت و بدون قطعی میتونید از ربات تایگو وی‌پی‌ان اقدام کنید 🚀
+🤖 @Tygo_vpn_bot
+
+- Ashkan:
+🆓🆓 •| سرور رایگان |• 🆓🆓
+
+✅✅✅✅✅✅✅✅✅✅✅
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJFWkVUVm1lc3MtLUBFem
